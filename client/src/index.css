@@ -1,0 +1,76 @@
+/* App.css or styles.css */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f6;
+    color: #333;
+  }
+  
+  h1, h2, h3 {
+    font-weight: 600;
+  }
+  
+  button {
+    font-family: inherit;
+    background-color: #6a5acd; /* Windows violet */
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  button:hover {
+    background-color: #5a4ecf;
+  }
+  
+  input, select {
+    font-family: inherit;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+/* Nav layout – Windows 10+ inspired */
+.win-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1.5rem;
+    background-color: #e9e9f3;
+    border-bottom: 1px solid #ccc;
+    font-size: 0.95rem;
+  }
+  
+  /* Link styles – keep it soft and clickable */
+  .nav-link {
+    margin-right: 1rem;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+    color: #6a5acd;
+  }
+  
+  /* Grouping for nav left and right */
+  .nav-group {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* User info text */
+  .user-info {
+    margin-right: 1rem;
+    color: #444;
+    font-weight: 500;
+  }
+  
+  /* Main content area */
+  .win-main {
+    padding: 1.5rem;
+  }
+  
