@@ -42,7 +42,6 @@ This repository contains a **MERN** (MongoDB, Express, React, Node.js) applicati
 * Authentication (JWT-based, typical for MERN apps)
 * React-based UI for managing students and attendance
 
-> If any features above are not implemented in the codebase, tell me and I will remove or adjust the list.
 
 ---
 
@@ -75,7 +74,6 @@ Students_Attendance_Tracking_MERN_App/
 └─ README.md              # <- you are here
 ```
 
-> The repo may contain additional folders and files inside `client` and `server`. Inspect those folders for more details (routes, controllers, models).
 
 ---
 
