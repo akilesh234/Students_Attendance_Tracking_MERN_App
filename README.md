@@ -30,7 +30,7 @@
 
 This repository contains a **MERN** (MongoDB, Express, React, Node.js) application for tracking student attendance. The project is split into two main parts: `server/` (backend API and database logic) and `client/` (React frontend). A `setup.js` script is included in the repository root to help seed or configure initial data.
 
-> Note: This README is written to match a typical MERN layout and the files present in this repo (`client`, `server`, `setup.js`, `.gitignore`). If you want the README tailored even more tightly to a particular file (for example exact API endpoints or sample `.env` keys), I can update it after you confirm the exact server file names or paste key files here.
+
 
 ---
 
