@@ -1,6 +1,5 @@
 # Students Attendance Tracking (MERN)
 
-> **Repository:** `Students_Attendance_Tracking_MERN_App`
 
 ## Overview
 
