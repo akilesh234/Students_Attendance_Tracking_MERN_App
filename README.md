@@ -2,30 +2,6 @@
 
 > **Repository:** `Students_Attendance_Tracking_MERN_App`
 
-## Table of contents
-
-* [Overview](#overview)
-* [Features](#features)
-* [Tech stack](#tech-stack)
-* [Prerequisites](#prerequisites)
-* [Repository structure](#repository-structure)
-* [Installation & setup](#installation--setup)
-
-  * [Clone](#clone)
-  * [Server setup](#server-setup)
-  * [Client setup](#client-setup)
-  * [Seeding sample data (setup.js)](#seeding-sample-data-setupjs)
-* [Running (development)](#running-development)
-* [Building & deploying (production)](#building--deploying-production)
-* [Environment variables (.env examples)](#environment-variables-env-examples)
-* [API & routes (overview)](#api--routes-overview)
-* [Testing](#testing)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-
----
-
 ## Overview
 
 This repository contains a **MERN** (MongoDB, Express, React, Node.js) application for tracking student attendance. The project is split into two main parts: `server/` (backend API and database logic) and `client/` (React frontend). A `setup.js` script is included in the repository root to help seed or configure initial data.
